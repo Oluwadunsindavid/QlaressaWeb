@@ -6,7 +6,7 @@ import img3 from "../../assets/ticketInfo.png";
 import img4 from "../../assets/closedTicket.png";
 import img5 from "../../assets/customer.png";
 import img6 from "../../assets/customerInfo.png";
-// import img7 from "../../assets/search.png";
+import img7 from "../../assets/search.png";
 import img8 from "../../assets/chat1.png";
 import img9 from "../../assets/chat2.png";
 
@@ -19,7 +19,7 @@ const Stat = () => {
     { title: "Track closed tickets", img1: img4 },
     { title: "Customer", img1: img5 },
     { title: "Customer information", img1: img6 },
-    // { title: "Quick search", img1: img7 },
+    { title: "Quick search", img1: img7 },
     { title: "Multiple Chats", img1: img8 },
     { title: "Chat with multiple media", img1: img9 },
   ];
