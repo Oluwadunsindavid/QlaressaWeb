@@ -6,9 +6,9 @@ import img3 from "../../assets/ticketInfo.png";
 import img4 from "../../assets/closedTicket.png";
 import img5 from "../../assets/customer.png";
 import img6 from "../../assets/customerInfo.png";
-import img7 from "../../assets/search.png"
-import img8 from "../../assets/chat1.png"
-import img9 from "../../assets/chat2.png"
+import img7 from "../../assets/search.png";
+import img8 from "../../assets/chat1.png";
+import img9 from "../../assets/chat2.png";
 
 const Stat = () => {
   const imageArrays = [
