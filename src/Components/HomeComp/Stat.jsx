@@ -19,7 +19,7 @@ const Stat = () => {
     { title: "Track closed tickets", img1: img4 },
     { title: "Customer", img1: img5 },
     { title: "Customer information", img1: img6 },
-    { title: "Quick search", img1: img7 },
+    // { title: "Quick search", img1: img7 },
     { title: "Multiple Chats", img1: img8 },
     { title: "Chat with multiple media", img1: img9 },
   ];
